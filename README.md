@@ -6,3 +6,7 @@
 - Berlin
 - Amsterdam
 - Tokyo
+- New York
+- Seattle
+- Dubai
+
